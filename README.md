@@ -46,17 +46,6 @@ I'm a passionate **Full-Stack Web Developer** from Morocco 🇲🇦, specializin
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
-## 🎓 Education & Certifications
-
-**Specialized Technician in Computer Systems and Networks**  
-*École Française d'Enseignement Technique (EFET) Meknes* | 2022
-
-**Core Competencies:**
-- Network Administration & Security
-- Database Design & Management
-- Web Application Development
-- Embedded Systems Programming
-
 ---
 
 ## 📊 GitHub Analytics
@@ -83,12 +72,21 @@ I'm a passionate **Full-Stack Web Developer** from Morocco 🇲🇦, specializin
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibenjellalaymane@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aymane-ij)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IJ-Aymane)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+  <a href="mailto:ibenjellalaymane@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/aymane-ij" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/IJ-Aymane" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://aymaneij.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
 
 </div>
+
 
 ---
 
