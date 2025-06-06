@@ -1,8 +1,12 @@
 # Hi there, I'm Aymane 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;PHP+%26+Laravel+Enthusiast;Database+Design+Expert;Open+Source+Contributor" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%26+Laravel+Enthusiast;Database+Design+Expert;Open+Source+Contributor" 
+    alt="Typing SVG" 
+  />
 </div>
+
 
 ## 🚀 About Me
 
