@@ -64,13 +64,6 @@ I'm a passionate **Full-Stack Web Developer** from Morocco 🇲🇦. I specializ
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IJ-Aymane&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
----
 
 ## 🌐 Let's Connect
 
