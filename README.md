@@ -97,3 +97,4 @@ Connection closed.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0a0a,40:0d0d0d,100:050505&height=70&section=footer" alt="footer" width="100%"/>
 
 </div>
+ 
