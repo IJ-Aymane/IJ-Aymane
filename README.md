@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d1117&height=220&section=header&text=Aymane%20IJ&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Cybersecurity%20Specialist&descSize=18&descAlignY=62" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d1117&height=220&section=header&text=Aymane%20IJ&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Cybersecurity&descSize=18&descAlignY=62" alt="header" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/IJ-Aymane">
@@ -27,52 +27,93 @@
 {
   "name": "Aymane Ibenjellal",
   "degree": "B.S. Computer Engineering (Génie Informatique)",
-  "location": "Morocco 🇲🇦",
+  "location": "Morocco",
   "specialization": "Offensive & Defensive Cybersecurity / DevSecOps",
-  "current_focus": ["Web Exploitation", "Linux Hardening", "Blockchain/Smart Contract Audit"],
+  "current_focus": ["Web Exploitation", "Linux Hardening", "Smart Contract Audit"],
   "platforms": ["TryHackMe", "HackTheBox", "CTFs"],
-  "philosophy": "Understanding low-level internals to build resilient systems and audit flaws."
+  "philosophy": "Understand low-level internals to build resilient systems and audit flaws."
 }
+```
 
-⚡ Engineering & Security Matrix
-| 🛠️ Software Engineering | 🔴 Red Team (Offensive) | 🔵 Blue Team (Defensive) |
+---
+
+## ⚡ Engineering & Security Matrix
+
+| 🛠️ Software Engineering | 🔴 Red Team | 🔵 Blue Team |
 |---|---|---|
-| Languages: C/C++, Python, PHP, JS, Bash | Web Pentesting (OWASP Top 10) | SIEM & Log Analysis (Splunk, Wazuh) |
-| Web & Frameworks: Laravel, Tailwind, Node.js | Network Scanning & Recon (Nmap) | IDS/IPS Monitoring (Snort, Suricata) |
-| Databases & Big Data: SQL, HiveQL, HDFS | Exploitation (Metasploit, Burp Suite) | Linux Hardening & Firewalls (iptables) |
-| Systems & DevOps: Arch Linux, Docker, Git | Packet Analysis (Wireshark, Tshark) | Threat Hunting & Incident Response |
-🛠️ Tech Arsenal
+| **Languages:** C/C++, Python, PHP, JS, Bash | Web pentesting (OWASP Top 10) | SIEM and log analysis (Splunk, Wazuh) |
+| **Web:** Laravel, Tailwind, Node.js | Recon and scanning (Nmap) | IDS/IPS monitoring (Snort, Suricata) |
+| **Data:** SQL, HiveQL, HDFS | Exploitation (Metasploit, Burp Suite) | Linux hardening and firewalls (iptables) |
+| **Systems:** Arch Linux, Docker, Git | Packet analysis (Wireshark, Tshark) | Threat hunting and incident response |
+
+---
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
-Programming & Core Stack
-<img src="https://skillicons.dev/icons?i=c,py,bash,php,js,html,css,linux,arch,docker,git,mysql&theme=dark" alt="core tech stack"/>
-Security & Offensive Tools
-Defense, SOC & Monitoring
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py,bash,php,js,html,css,linux,arch,docker,git,mysql,laravel,nodejs,tailwind&theme=dark" alt="core tech stack"/>
+
+<br/><br/>
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-2E7D32?style=flat-square&logoColor=white)
+![iptables](https://img.shields.io/badge/iptables-DC382D?style=flat-square&logoColor=white)
+
 </div>
-🚀 Featured Projects & Security Labs
- 📂 github-showcase/
- ├── 📜 Blockchain-P2P-Payment-DApp  # Secure Decentralized Payment System with Smart Contract Auditing
- ├── 🛡️ Home-SOC-Lab                  # Wazuh + Suricata + Splunk Automated Threat Detection Setup
- ├── ⚙️ Automate-VBA-Engine           # Excel Financial Automation & Data Analytics Tool
- └── 📑 CTF-Writeups-Vault            # Comprehensive Writeups for HTB & TryHackMe Challenges
 
-🎯 Milestone Roadmap
-+ [DONE] Core Computer Engineering Fundamentals & Linux Systems
-+ [DONE] Web App Development (Laravel, JavaScript, DBs)
-+ [IN PROGRESS] Advanced Web Vulnerability Assessment & PenTesting
-! [IN PROGRESS] Building Home SOC Environment with Wazuh & Suricata
-- [NEXT] Build & Open-Source a Custom Recon/Security Automation Tool
-- [NEXT] Publish Active Directory & Web Penetration Testing Writeups
-- [GOAL] Target Certifications: eJPT -> CompTIA Security+ -> PNPT / OSCP
+---
 
-📊 GitHub Analytics
+## 🚀 Featured Projects & Labs
+
+| Project | What it does |
+|---|---|
+| 📜 [**Blockchain-P2P-Payment-DApp**](https://github.com/IJ-Aymane/Blockchain-P2P-Payment-DApp) | Decentralized payment system with smart contract auditing |
+| 🛡️ [**Home-SOC-Lab**](https://github.com/IJ-Aymane/Home-SOC-Lab) | Wazuh + Suricata + Splunk threat detection setup |
+| ⚙️ [**Automate-VBA-Engine**](https://github.com/IJ-Aymane/Automate-VBA-Engine) | Excel financial automation and data analytics tool |
+| 📑 [**CTF-Writeups-Vault**](https://github.com/IJ-Aymane/CTF-Writeups-Vault) | Writeups for HackTheBox and TryHackMe challenges |
+
+---
+
+## 🎯 Milestone Roadmap
+
+```diff
++ [DONE] Core computer engineering fundamentals and Linux systems
++ [DONE] Web app development (Laravel, JavaScript, databases)
+! [IN PROGRESS] Advanced web vulnerability assessment and pentesting
+! [IN PROGRESS] Home SOC environment with Wazuh and Suricata
+- [NEXT] Build and open-source a custom recon / security automation tool
+- [NEXT] Publish Active Directory and web pentesting writeups
+- [GOAL] Certifications: eJPT -> CompTIA Security+ -> PNPT / OSCP
+```
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJ-Aymane&layout=compact&langs_count=6&theme=dark&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&hide_border=true" alt="Top Languages"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=IJ-Aymane&hide=stars,prs,issues&hide_rank=true&count_private=true&theme=dark&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true" alt="GitHub Stats"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IJ-Aymane&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&hide_border=true" alt="Streak Stats"/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IJ-Aymane&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-<div align="center">
-<sub>🔒 All security research, penetration testing, and lab experiments are conducted strictly in authorized environments.</sub>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=100&section=footer" alt="footer" width="100%"/>
+
 </div>
 
+---
+
+<div align="center">
+
+<sub>🔒 All security research, penetration testing and lab experiments are conducted strictly in authorized environments.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=100&section=footer" alt="footer" width="100%"/>
+
+</div>
