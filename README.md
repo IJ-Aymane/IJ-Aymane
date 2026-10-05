@@ -14,9 +14,7 @@
 
 </div>
 
-<br/>
-
-## `>` WHO AM I
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:050505&height=64&section=header&text=%3E%20WHO%20AM%20I&fontSize=24&fontColor=C1121F&fontAlign=6&fontAlignY=55" alt="WHO AM I" width="100%"/>
 
 I'm a **Computer Engineering student at ENSI Tanger, Morocco**, focused on cybersecurity. I like understanding how systems work at a low level, then testing where they break and how to fix them.
 
@@ -29,9 +27,7 @@ Training. Open to internships
 and collaborations.
 ```
 
-<br/>
-
-## `>` WHAT I DO
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:050505&height=64&section=header&text=%3E%20WHAT%20I%20DO&fontSize=24&fontColor=C1121F&fontAlign=7&fontAlignY=55" alt="WHAT I DO" width="100%"/>
 
 **🔴 Red Team**
 - Web pentesting (OWASP Top 10)
@@ -47,9 +43,7 @@ and collaborations.
 - C/C++, Python, PHP, JavaScript, Bash
 - Laravel, Node.js, SQL, Docker
 
-<br/>
-
-## `>` ARSENAL
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:050505&height=64&section=header&text=%3E%20ARSENAL&fontSize=24&fontColor=C1121F&fontAlign=5&fontAlignY=55" alt="ARSENAL" width="100%"/>
 
 <div align="center">
 
@@ -75,25 +69,7 @@ and collaborations.
 
 </div>
 
-<br/>
-
-## `>` PROJECTS
-
-**📜 [Blockchain-P2P-Payment-DApp](https://github.com/IJ-Aymane/Blockchain-P2P-Payment-DApp)**
-<br/>Decentralized payments with smart contract auditing.
-
-**🛡️ [Home-SOC-Lab](https://github.com/IJ-Aymane/Home-SOC-Lab)**
-<br/>Wazuh, Suricata and Splunk threat detection setup.
-
-**⚙️ [Automate-VBA-Engine](https://github.com/IJ-Aymane/Automate-VBA-Engine)**
-<br/>Excel financial automation and analytics.
-
-**📑 [CTF-Writeups-Vault](https://github.com/IJ-Aymane/CTF-Writeups-Vault)**
-<br/>HackTheBox and TryHackMe writeups.
-
-<br/>
-
-## `>` ROADMAP
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:050505&height=64&section=header&text=%3E%20ROADMAP&fontSize=24&fontColor=C1121F&fontAlign=6&fontAlignY=55" alt="ROADMAP" width="100%"/>
 
 - [x] Computer engineering and Linux foundations
 - [x] Web development (Laravel, JS, databases)
@@ -103,21 +79,13 @@ and collaborations.
 - [ ] Publish pentesting writeups
 - [ ] Certifications: eJPT, Security+, PNPT / OSCP
 
-<br/>
-
-## `>` STATS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:050505&height=64&section=header&text=%3E%20STATS&fontSize=24&fontColor=C1121F&fontAlign=5&fontAlignY=55" alt="STATS" width="100%"/>
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJ-Aymane&layout=compact&langs_count=6&theme=dark&bg_color=0a0a0a&title_color=C1121F&text_color=b0b0b0&hide_border=true" alt="Top Languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IJ-Aymane&background=0a0a0a&ring=C1121F&fire=C1121F&currStreakLabel=C1121F&sideLabels=b0b0b0&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=6b6b6b&stroke=2a2a2a&hide_border=true" alt="Streak Stats"/>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ```text
 $ exit
