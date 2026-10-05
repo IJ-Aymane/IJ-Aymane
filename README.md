@@ -1,126 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:7b2ff7,100:00f0ff&height=230&section=header&text=AYMANE%20IJ&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%20%2F%2F%20Cyber%20Ninja%20in%20Training&descSize=18&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,60:0d0d0d,100:3b0a0a&height=220&section=header&text=AYMANE%20IJ&fontSize=58&fontColor=e5e5e5&fontAlignY=42&desc=OFFENSIVE%20%2F%20DEFENSIVE%20SECURITY&descSize=16&descColor=9a9a9a&descAlignY=66" alt="header" width="100%"/>
 
 <a href="https://github.com/IJ-Aymane">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=560&height=45&lines=%3E+Initializing+hacker+protocol...;Computer+Engineering+%40+ENSI+Tanger;Aspiring+Pentester+%26+SOC+Analyst;Red+Team+%E2%9A%94%EF%B8%8F+Blue+Team+%F0%9F%9B%A1%EF%B8%8F;Break+it.+Understand+it.+Secure+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=C1121F&center=true&vCenter=true&width=560&height=40&lines=Computer+Engineering+%40+ENSI+Tanger;Aspiring+Penetration+Tester+%7C+SOC+Analyst;Break+it.+Understand+it.+Secure+it." alt="Typing SVG" />
 </a>
 
 <br/>
 
-`(｀・ω・´)ゞ` &nbsp; **"Hack the planet... legally."** &nbsp; `ε=ε=┌( >_<)┘`
-
-<br/>
-
-<a href="mailto:ibenjellalaymane@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff2e97?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/aymane-ij-15866034a"><img src="https://img.shields.io/badge/LinkedIn-7b2ff7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://aymaneij.com"><img src="https://img.shields.io/badge/Portfolio-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
-
-</div>
-
----
-
-## 🎴 キャラクターシート // Character Sheet
-
-```text
-╔══════════════════════════════════════════════════════╗
-║  NAME    : Aymane Ibenjellal                         ║
-║  CLASS   : Cyber Ninja (Red/Blue Hybrid)             ║
-║  GUILD   : ENSI Tanger - Computer Engineering        ║
-║  REGION  : Morocco 🇲🇦                                ║
-║  LEVEL   : Student  ->  Pentester (loading...)       ║
-║  WEAPONS : Python | C/C++ | Bash | PHP | JS          ║
-║  BASE    : Arch Linux (btw)                          ║
-║  CREED   : Understand the internals, then defend.    ║
-╚══════════════════════════════════════════════════════╝
-```
-
-### ⚡ Power Level
-
-```text
-Web Exploitation   [██████░░░░]  Lv.6   training arc
-Networking         [███████░░░]  Lv.7
-Linux / Hardening  [███████░░░]  Lv.7
-SOC / Blue Team    [█████░░░░░]  Lv.5   building home lab
-Scripting          [████████░░]  Lv.8
-Smart Contracts    [████░░░░░░]  Lv.4   exploring
-```
-
----
-
-## 🥷 Ninjutsu // Skill Tree
-
-| ⚔️ Red Arts (Offense) | 🛡️ Blue Arts (Defense) | 🔧 Craft (Engineering) |
-|---|---|---|
-| Web pentesting, OWASP Top 10 | SIEM and log analysis | C/C++, Python, PHP, JS, Bash |
-| Recon and scanning with Nmap | IDS/IPS with Snort and Suricata | Laravel, Node.js, Tailwind |
-| Burp Suite and Metasploit | Firewalls and iptables | SQL, HiveQL, HDFS |
-| Packet analysis with Wireshark | Threat hunting, incident response | Docker, Git, Arch Linux |
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,py,bash,php,js,html,css,linux,arch,docker,git,mysql,laravel,nodejs,tailwind&theme=dark" alt="stack"/>
+<sub>サイバーセキュリティ &nbsp;//&nbsp; ETHICAL HACKING ONLY</sub>
 
 <br/><br/>
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-2E7D32?style=flat-square&logoColor=white)
+<a href="mailto:ibenjellalaymane@gmail.com"><img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/aymane-ij-15866034a"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://aymaneij.com"><img src="https://img.shields.io/badge/PORTFOLIO-C1121F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
----
+<br/>
 
-## 📜 クエストボード // Quest Board
+## > whoami
 
-| Rank | Quest | Mission |
-|:---:|---|---|
-| 🔴 **S** | [Blockchain-P2P-Payment-DApp](https://github.com/IJ-Aymane/Blockchain-P2P-Payment-DApp) | Decentralized payments with smart contract auditing |
-| 🟣 **A** | [Home-SOC-Lab](https://github.com/IJ-Aymane/Home-SOC-Lab) | Wazuh + Suricata + Splunk threat detection base |
-| 🔵 **B** | [Automate-VBA-Engine](https://github.com/IJ-Aymane/Automate-VBA-Engine) | Excel financial automation and analytics |
-| 🟢 **C** | [CTF-Writeups-Vault](https://github.com/IJ-Aymane/CTF-Writeups-Vault) | HackTheBox and TryHackMe writeups |
+```text
+┌──(aymane㉿arch)-[~]
+└─$ cat profile.txt
 
----
-
-## 🌸 修行編 // Training Arc
-
-```diff
-+ ARC 1 : Foundations      [CLEARED]   Computer engineering, Linux, networking
-+ ARC 2 : Web Dev          [CLEARED]   Laravel, JavaScript, databases
-! ARC 3 : Pentest Basics   [ONGOING]   Web exploitation, TryHackMe, HackTheBox
-! ARC 4 : Blue Team Dojo   [ONGOING]   Home SOC with Wazuh and Suricata
-- ARC 5 : Tool Forging     [LOCKED]    Open-source a recon / automation tool
-- ARC 6 : Chunin Exams     [LOCKED]    eJPT -> Security+ -> PNPT / OSCP
+NAME      : Aymane Ibenjellal
+BASE      : Morocco
+STUDY     : Computer Engineering, ENSI Tanger
+ROLE      : Cybersecurity student / aspiring pentester
+FOCUS     : Web exploitation, Linux hardening, SOC, smart contract audit
+ARENA     : TryHackMe, HackTheBox, CTFs
+CREED     : Understand the internals. Then break them. Then fix them.
 ```
 
----
+<br/>
 
-## 📊 Battle Stats
+## > capabilities
+
+| OFFENSE | DEFENSE | ENGINEERING |
+|---|---|---|
+| Web pentesting, OWASP Top 10 | SIEM and log analysis | C/C++, Python, PHP, JS, Bash |
+| Recon and scanning | IDS/IPS monitoring | Laravel, Node.js, Tailwind |
+| Exploitation, Burp Suite, Metasploit | Firewalls, iptables, hardening | SQL, HiveQL, HDFS |
+| Packet analysis | Threat hunting, incident response | Docker, Git, Arch Linux |
+
+<br/>
+
+## > arsenal
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJ-Aymane&layout=compact&langs_count=6&theme=dark&bg_color=0b0f1a&title_color=ff2e97&text_color=c9d1d9&hide_border=true" alt="Top Languages"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IJ-Aymane&hide=stars,prs,issues&hide_rank=true&count_private=true&theme=dark&bg_color=0b0f1a&title_color=ff2e97&icon_color=00f0ff&text_color=c9d1d9&hide_border=true" alt="GitHub Stats"/>
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-111111?style=for-the-badge&logo=archlinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IJ-Aymane&background=0b0f1a&ring=ff2e97&fire=00f0ff&currStreakLabel=ff2e97&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&hide_border=true" alt="Streak Stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IJ-Aymane&bg_color=0b0f1a&color=ff2e97&line=00f0ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-111111?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-111111?style=for-the-badge&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-111111?style=for-the-badge&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-111111?style=for-the-badge&logoColor=white)
 
 </div>
 
----
+<br/>
+
+## > operations
+
+| Operation | Objective |
+|---|---|
+| [**Blockchain-P2P-Payment-DApp**](https://github.com/IJ-Aymane/Blockchain-P2P-Payment-DApp) | Decentralized payments with smart contract auditing |
+| [**Home-SOC-Lab**](https://github.com/IJ-Aymane/Home-SOC-Lab) | Wazuh, Suricata and Splunk threat detection setup |
+| [**Automate-VBA-Engine**](https://github.com/IJ-Aymane/Automate-VBA-Engine) | Excel financial automation and analytics |
+| [**CTF-Writeups-Vault**](https://github.com/IJ-Aymane/CTF-Writeups-Vault) | HackTheBox and TryHackMe writeups |
+
+<br/>
+
+## > mission log
+
+```text
+[x] PHASE 1  Foundations        Computer engineering, Linux, networking
+[x] PHASE 2  Web development    Laravel, JavaScript, databases
+[~] PHASE 3  Offensive training Web exploitation, THM, HTB
+[~] PHASE 4  Defensive lab      Home SOC with Wazuh and Suricata
+[ ] PHASE 5  Tool forging       Open-source recon / automation tool
+[ ] PHASE 6  Certification      eJPT > Security+ > PNPT / OSCP
+```
+
+<br/>
+
+## > telemetry
 
 <div align="center">
 
-`倫理的ハッキング` &nbsp; **Ethical hacking only. Authorized targets only.**
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJ-Aymane&layout=compact&langs_count=6&theme=dark&bg_color=0a0a0a&title_color=C1121F&text_color=b0b0b0&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IJ-Aymane&hide=stars,prs,issues&hide_rank=true&count_private=true&theme=dark&bg_color=0a0a0a&title_color=C1121F&icon_color=e5e5e5&text_color=b0b0b0&hide_border=true" alt="GitHub Stats"/>
 
-<sub>"A ninja who breaks the rules is trash. A hacker who breaks the law is worse."</sub>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IJ-Aymane&background=0a0a0a&ring=C1121F&fire=C1121F&currStreakLabel=C1121F&sideLabels=b0b0b0&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=6b6b6b&stroke=2a2a2a&hide_border=true" alt="Streak Stats"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7b2ff7,100:ff2e97&height=100&section=footer" alt="footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IJ-Aymane&bg_color=0a0a0a&color=b0b0b0&line=C1121F&point=e5e5e5&area=true&area_color=C1121F&hide_border=true" alt="Activity Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>倫理的ハッキング &nbsp;//&nbsp; All testing is performed in authorized environments only.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0a0a,40:0d0d0d,100:050505&height=80&section=footer" alt="footer" width="100%"/>
 
 </div>
