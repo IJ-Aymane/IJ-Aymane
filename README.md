@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,60:0d0d0d,100:3b0a0a&height=220&section=header&text=AYMANE%20IJ&fontSize=58&fontColor=e5e5e5&fontAlignY=42&desc=OFFENSIVE%20%2F%20DEFENSIVE%20SECURITY&descSize=16&descColor=9a9a9a&descAlignY=66" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,55:0d0d0d,100:3b0a0a&height=210&section=header&text=AYMANE%20IJ&fontSize=58&fontColor=e5e5e5&fontAlignY=40&desc=CLASSIFIED%20%2F%2F%20EYES%20ONLY&descSize=16&descColor=C1121F&descAlignY=66" alt="header" width="100%"/>
 
 <a href="https://github.com/IJ-Aymane">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=C1121F&center=true&vCenter=true&width=560&height=40&lines=Computer+Engineering+%40+ENSI+Tanger;Aspiring+Penetration+Tester+%7C+SOC+Analyst;Break+it.+Understand+it.+Secure+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=C1121F&center=true&vCenter=true&width=620&height=40&lines=%24+sudo+become+pentester;%24+nmap+-sV+aymane.local;%24+cat+/etc/mission;Computer+Engineering+%40+ENSI+Tanger;Break+it.+Understand+it.+Secure+it." alt="Typing SVG" />
 </a>
 
 <br/>
-
-<sub>サイバーセキュリティ &nbsp;//&nbsp; ETHICAL HACKING ONLY</sub>
-
-<br/><br/>
 
 <a href="mailto:ibenjellalaymane@gmail.com"><img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/aymane-ij-15866034a"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -20,35 +16,48 @@
 
 <br/>
 
-## > whoami
+```text
+ ┌──────────────────────────────────────────────────────────┐
+ │  ACCESS GRANTED  ::  FILE #IJ-001  ::  CLEARANCE: PUBLIC │
+ └──────────────────────────────────────────────────────────┘
+```
+
+## 📁 SUBJECT FILE
 
 ```text
-┌──(aymane㉿arch)-[~]
-└─$ cat profile.txt
-
-NAME      : Aymane Ibenjellal
-BASE      : Morocco
-STUDY     : Computer Engineering, ENSI Tanger
-ROLE      : Cybersecurity student / aspiring pentester
-FOCUS     : Web exploitation, Linux hardening, SOC, smart contract audit
-ARENA     : TryHackMe, HackTheBox, CTFs
-CREED     : Understand the internals. Then break them. Then fix them.
+SUBJECT      : Aymane Ibenjellal
+ALIAS        : IJ-Aymane
+ORIGIN       : Morocco
+AFFILIATION  : ENSI Tanger, Computer Engineering
+CLASS        : Aspiring Penetration Tester / SOC Analyst
+THREAT LEVEL : ██████░░░░  rising
+STATUS       : Training. Open to internships and collaborations.
+KNOWN FOR    : Taking things apart to see how they break.
+LAST SEEN    : TryHackMe, HackTheBox, CTF scoreboards
+DOCTRINE     : "Understand the internals. Break them. Fix them."
 ```
 
 <br/>
 
-## > capabilities
+## 📡 PORT SCAN
 
-| OFFENSE | DEFENSE | ENGINEERING |
-|---|---|---|
-| Web pentesting, OWASP Top 10 | SIEM and log analysis | C/C++, Python, PHP, JS, Bash |
-| Recon and scanning | IDS/IPS monitoring | Laravel, Node.js, Tailwind |
-| Exploitation, Burp Suite, Metasploit | Firewalls, iptables, hardening | SQL, HiveQL, HDFS |
-| Packet analysis | Threat hunting, incident response | Docker, Git, Arch Linux |
+> Every skill is a service. Here is what's listening.
 
-<br/>
+```text
+$ nmap -sV -p- aymane.local
 
-## > arsenal
+PORT      STATE   SERVICE         VERSION
+22/tcp    open    linux           Arch Linux, Bash, hardening, iptables
+80/tcp    open    web-dev         PHP, Laravel, Node.js, JavaScript, Tailwind
+443/tcp   open    web-pentest     OWASP Top 10, Burp Suite
+1433/tcp  open    data            SQL, HiveQL, HDFS
+1514/udp  open    blue-team       Wazuh, Splunk, Suricata, Snort
+4444/tcp  open    offensive       Nmap, Metasploit, Wireshark (labs only)
+8545/tcp  open    smart-contracts auditing, in progress
+9999/tcp  filtered next-skill     [REDACTED]  loading...
+
+Service detection complete. 8 services identified.
+```
 
 <div align="center">
 
@@ -60,7 +69,6 @@ CREED     : Understand the internals. Then break them. Then fix them.
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-111111?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
@@ -78,31 +86,34 @@ CREED     : Understand the internals. Then break them. Then fix them.
 
 <br/>
 
-## > operations
+## 🧨 ARTIFACTS RECOVERED
 
-| Operation | Objective |
-|---|---|
-| [**Blockchain-P2P-Payment-DApp**](https://github.com/IJ-Aymane/Blockchain-P2P-Payment-DApp) | Decentralized payments with smart contract auditing |
-| [**Home-SOC-Lab**](https://github.com/IJ-Aymane/Home-SOC-Lab) | Wazuh, Suricata and Splunk threat detection setup |
-| [**Automate-VBA-Engine**](https://github.com/IJ-Aymane/Automate-VBA-Engine) | Excel financial automation and analytics |
-| [**CTF-Writeups-Vault**](https://github.com/IJ-Aymane/CTF-Writeups-Vault) | HackTheBox and TryHackMe writeups |
+| ID | Artifact | Description |
+|:---:|---|---|
+| `0x01` | [**Blockchain-P2P-Payment-DApp**](https://github.com/IJ-Aymane/Blockchain-P2P-Payment-DApp) | Decentralized payment system with smart contract auditing |
+| `0x02` | [**Home-SOC-Lab**](https://github.com/IJ-Aymane/Home-SOC-Lab) | Wazuh, Suricata and Splunk threat detection setup |
+| `0x03` | [**Automate-VBA-Engine**](https://github.com/IJ-Aymane/Automate-VBA-Engine) | Excel financial automation and analytics engine |
+| `0x04` | [**CTF-Writeups-Vault**](https://github.com/IJ-Aymane/CTF-Writeups-Vault) | HackTheBox and TryHackMe writeups |
 
 <br/>
 
-## > mission log
+## ⛓️ CAREER KILL CHAIN
+
+> Mapping my own path to the Cyber Kill Chain.
 
 ```text
-[x] PHASE 1  Foundations        Computer engineering, Linux, networking
-[x] PHASE 2  Web development    Laravel, JavaScript, databases
-[~] PHASE 3  Offensive training Web exploitation, THM, HTB
-[~] PHASE 4  Defensive lab      Home SOC with Wazuh and Suricata
-[ ] PHASE 5  Tool forging       Open-source recon / automation tool
-[ ] PHASE 6  Certification      eJPT > Security+ > PNPT / OSCP
+[x] 1. RECONNAISSANCE    Studied computer engineering, Linux and networking
+[x] 2. WEAPONIZATION     Built web apps with Laravel, JavaScript and databases
+[~] 3. DELIVERY          Training on TryHackMe and HackTheBox
+[~] 4. EXPLOITATION      Web vulnerability assessment and pentesting
+[~] 5. INSTALLATION      Home SOC lab with Wazuh and Suricata
+[ ] 6. COMMAND & CONTROL Open-source my own recon / automation tool
+[ ] 7. ACTIONS ON TARGET eJPT > Security+ > PNPT / OSCP > first pentest role
 ```
 
 <br/>
 
-## > telemetry
+## 📈 TELEMETRY
 
 <div align="center">
 
@@ -117,10 +128,16 @@ CREED     : Understand the internals. Then break them. Then fix them.
 
 <br/>
 
+```text
+$ whoami --hire
+aymane: open to internships, research and collabs
+$ mail ibenjellalaymane@gmail.com
+
+$ exit
+Connection to aymane.local closed.
+All testing is performed in authorized environments only.
+```
+
 <div align="center">
-
-<sub>倫理的ハッキング &nbsp;//&nbsp; All testing is performed in authorized environments only.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0a0a,40:0d0d0d,100:050505&height=80&section=footer" alt="footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0a0a,40:0d0d0d,100:050505&height=70&section=footer" alt="footer" width="100%"/>
 </div>
